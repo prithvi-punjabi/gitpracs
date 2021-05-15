@@ -1,1 +1,2 @@
 Hello, this is a text file. Test for git commit.
+Edited file now!
